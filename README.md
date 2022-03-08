@@ -1,3 +1,2 @@
 # trajectory_analysis
-single cell trajectory data of A549/VIM-RFP are shared in the following link
-https://drive.google.com/drive/folders/1WLTG-djLka6MvPjfjO4wVkVZoLufqIcm?usp=sharing
+The is the scripts for the paper Wang et al. eLife 2022;11:e74866. DOI: https://doi.org/10.7554/eLife.74866
